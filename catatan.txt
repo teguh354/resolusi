@@ -1,3 +1,5 @@
 1. pembelajaran awal mengenai github dan git melalui WPU
 2. mengedit file ini(1)
 mengedit file (2)
+mengedit file (3) dan (4)
+mengedit file (5)
